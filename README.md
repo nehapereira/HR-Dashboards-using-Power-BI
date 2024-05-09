@@ -6,6 +6,8 @@ Human Resources departments frequently face challenges in effectively managing a
 Traditional HR management tools often lack the capability to provide real-time, actionable insights, leading to inefficient workforce planning and decision-making. 
 There is a critical need for an integrated solution that enables HR professionals to swiftly access, analyze, and interpret data to support strategic human capital decisions and enhance employee engagement and retention strategies.
 
+(For the time-being I'll upload only the second dashboard I'll upload the first one later)
+
 ### For Dashboard 1:
 
 ![image](https://github.com/nehapereira/HR-Dashboards-using-Power-BI/assets/136058806/165f7270-74b4-4ef5-814f-7679fe876737)
